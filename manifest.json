@@ -1,0 +1,13 @@
+{
+  "name": "Password Generator Extension",
+  "description": "A Extension, which generates a save password.",
+  "version": "1.0",
+  "permissions": [
+  "activeTab"
+],
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
